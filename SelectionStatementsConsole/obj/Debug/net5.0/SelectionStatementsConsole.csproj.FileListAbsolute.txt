@@ -1,0 +1,16 @@
+C:\Users\Customer\repos\SelectionStatements\SelectionStatementsConsole\bin\Debug\net5.0\SelectionStatementsConsole.exe
+C:\Users\Customer\repos\SelectionStatements\SelectionStatementsConsole\bin\Debug\net5.0\SelectionStatementsConsole.deps.json
+C:\Users\Customer\repos\SelectionStatements\SelectionStatementsConsole\bin\Debug\net5.0\SelectionStatementsConsole.runtimeconfig.json
+C:\Users\Customer\repos\SelectionStatements\SelectionStatementsConsole\bin\Debug\net5.0\SelectionStatementsConsole.runtimeconfig.dev.json
+C:\Users\Customer\repos\SelectionStatements\SelectionStatementsConsole\bin\Debug\net5.0\SelectionStatementsConsole.dll
+C:\Users\Customer\repos\SelectionStatements\SelectionStatementsConsole\bin\Debug\net5.0\SelectionStatementsConsole.pdb
+C:\Users\Customer\repos\SelectionStatements\SelectionStatementsConsole\obj\Debug\net5.0\SelectionStatementsConsole.csproj.AssemblyReference.cache
+C:\Users\Customer\repos\SelectionStatements\SelectionStatementsConsole\obj\Debug\net5.0\SelectionStatementsConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Customer\repos\SelectionStatements\SelectionStatementsConsole\obj\Debug\net5.0\SelectionStatementsConsole.AssemblyInfoInputs.cache
+C:\Users\Customer\repos\SelectionStatements\SelectionStatementsConsole\obj\Debug\net5.0\SelectionStatementsConsole.AssemblyInfo.cs
+C:\Users\Customer\repos\SelectionStatements\SelectionStatementsConsole\obj\Debug\net5.0\SelectionStatementsConsole.csproj.CoreCompileInputs.cache
+C:\Users\Customer\repos\SelectionStatements\SelectionStatementsConsole\obj\Debug\net5.0\SelectionStatementsConsole.dll
+C:\Users\Customer\repos\SelectionStatements\SelectionStatementsConsole\obj\Debug\net5.0\refint\SelectionStatementsConsole.dll
+C:\Users\Customer\repos\SelectionStatements\SelectionStatementsConsole\obj\Debug\net5.0\SelectionStatementsConsole.pdb
+C:\Users\Customer\repos\SelectionStatements\SelectionStatementsConsole\obj\Debug\net5.0\SelectionStatementsConsole.genruntimeconfig.cache
+C:\Users\Customer\repos\SelectionStatements\SelectionStatementsConsole\obj\Debug\net5.0\ref\SelectionStatementsConsole.dll
